@@ -1,2 +1,0 @@
-from FIRST import FIRST
-FIRST.FIRST()
